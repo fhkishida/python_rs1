@@ -44,7 +44,7 @@ contatos = []
 while True:
     print("\nMenu")
     print("1. Adicionar um contato")
-    print("2. Vizualizar contatos")
+    print("2. Vizualizar contatos") 
     print("3. Editar contato")
     print("4. Marcar contato como favorito")
     print("5. Ver lista de favoritos")
